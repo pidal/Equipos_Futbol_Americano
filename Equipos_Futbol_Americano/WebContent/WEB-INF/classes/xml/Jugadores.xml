@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!DOCTYPE Jugadores SYSTEM "C:/Users/Dolores00/workspace/Equipos_Futbol_Americano/src/xml/Jugadores.dtd">
+<!DOCTYPE Jugadores SYSTEM "D:/Ufv/Eclipse/Equipos_Futbol_Americano/src/xml/Jugadores.dtd">
 
 <Jugadores>
 
@@ -11,7 +11,6 @@
 		<posicion  dorsal="#9">QB</posicion>
 		<salario>1.000.000 $</salario>
 	</Jugador>
-	
 	
 	<Jugador>
 		<nombre>Justin</nombre>

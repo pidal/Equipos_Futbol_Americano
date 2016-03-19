@@ -4,12 +4,12 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Equipos Fútbol Americano</title>
+<title>Inserta Jugadores</title>
 </head>
 <body>
-<h1>Consulta de Jugadores</h1>
+<h1>Listado de jugadores</h1>
 
-<form action="resultadoConsulta.jsp">
+<form action="insertando.jsp">
 
 Nombre: <input type="text" name="nombre"><br/>
 Apellidos: <input type="text" name="apellidos"><br/>
