@@ -1,0 +1,1318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE Jugadores SYSTEM "C:/Users/Dolores00/workspace/Equipos_Futbol_Americano/src/xml/Jugadores.dtd">
+
+<Jugadores>
+
+	<Jugador>
+		<nombre>Matt</nombre>
+		<apellidos>Barkley</apellidos>
+		<equipo>Arizona Cardinals</equipo>
+		<posicion  dorsal="#9">QB</posicion>
+		<salario>1.000.000 $</salario>
+	</Jugador>
+	
+	
+	<Jugador>
+		<nombre>Justin</nombre>
+		<apellidos>Bethel</apellidos>
+		<equipo>Arizona Cardinals</equipo>
+		<posicion  dorsal="#28">CB</posicion>
+		<salario>1.500.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Cariel</nombre>
+		<apellidos>Brooks</apellidos>
+		<equipo>Arizona Cardinals</equipo>
+		<posicion  dorsal="#35">DB</posicion>
+		<salario>750.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>John</nombre>
+		<apellidos>Brown</apellidos>
+		<equipo>Arizona Cardinals</equipo>
+		<posicion  dorsal="#12">WR</posicion>
+		<salario>1.100.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Deone</nombre>
+		<apellidos>Bucannon</apellidos>
+		<equipo>Arizona Cardinals</equipo>
+		<posicion  dorsal="#20">OLB</posicion>
+		<salario>1.250.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Robert</nombre>
+		<apellidos>Alford</apellidos>
+		<equipo>Atlanta Falcons</equipo>
+		<posicion  dorsal="#23">CB</posicion>
+		<salario>550.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Ricardo</nombre>
+		<apellidos>Allen</apellidos>
+		<equipo>Atlanta Falcons</equipo>
+		<posicion  dorsal="#37">FS</posicion>
+		<salario>250.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Eric</nombre>
+		<apellidos>Weems</apellidos>
+		<equipo>Atlanta Falcons</equipo>
+		<posicion  dorsal="#14">WR</posicion>
+		<salario>350.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Desmond</nombre>
+		<apellidos>Trufant</apellidos>
+		<equipo>Atlanta Falcons</equipo>
+		<posicion  dorsal="#21">CB</posicion>
+		<salario>2.550.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Terron</nombre>
+		<apellidos>Ward</apellidos>
+		<equipo>Atlanta Falcons</equipo>
+		<posicion  dorsal="#33">RB</posicion>
+		<salario>760.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Javorius</nombre>
+		<apellidos>Allen</apellidos>
+		<equipo>Baltimore Ravens</equipo>
+		<posicion  dorsal="#37">RB</posicion>
+		<salario>990.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Matt</nombre>
+		<apellidos>Elam</apellidos>
+		<equipo>Baltimore Ravens</equipo>
+		<posicion  dorsal="#26">SS</posicion>
+		<salario>1.990.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Lawrence</nombre>
+		<apellidos>Guy</apellidos>
+		<equipo>Baltimore Ravens</equipo>
+		<posicion  dorsal="#93">DE</posicion>
+		<salario>190.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>James</nombre>
+		<apellidos>Hurst</apellidos>
+		<equipo>Baltimore Ravens</equipo>
+		<posicion  dorsal="#74">T</posicion>
+		<salario>390.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Timmy</nombre>
+		<apellidos>Jernigan</apellidos>
+		<equipo>Baltimore Ravens</equipo>
+		<posicion  dorsal="#97">DE</posicion>
+		<salario>1.000.500 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Tyson</nombre>
+		<apellidos>Chandler</apellidos>
+		<equipo>Buffalo Bills</equipo>
+		<posicion  dorsal="#79">T</posicion>
+		<salario>1.101.500 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Marcus</nombre>
+		<apellidos>Easley</apellidos>
+		<equipo>Buffalo Bills</equipo>
+		<posicion  dorsal="#81">WR</posicion>
+		<salario>3.100.000 $</salario>
+	</Jugador>
+	
+	
+	<Jugador>
+		<nombre>Jerome</nombre>
+		<apellidos>Felton</apellidos>
+		<equipo>Buffalo Bills</equipo>
+		<posicion  dorsal="#42">FB</posicion>
+		<salario>100.000 $</salario>
+	</Jugador>
+	
+	
+	<Jugador>
+		<nombre>Merrill</nombre>
+		<apellidos>Noel</apellidos>
+		<equipo>Buffalo Bills</equipo>
+		<posicion  dorsal="#46">CB</posicion>
+		<salario>1.340.123 $</salario>
+	</Jugador>
+	
+	
+	<Jugador>
+		<nombre>Colton</nombre>
+		<apellidos>Schmidt</apellidos>
+		<equipo>Buffalo Bills</equipo>
+		<posicion  dorsal="#6">P</posicion>
+		<salario>120.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Kurt</nombre>
+		<apellidos>Coleman</apellidos>
+		<equipo>Caroline Panthers</equipo>
+		<posicion  dorsal="#20">FS</posicion>
+		<salario>125.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Thomas</nombre>
+		<apellidos>Davis</apellidos>
+		<equipo>Caroline Panthers</equipo>
+		<posicion  dorsal="#58">OLB</posicion>
+		<salario>725.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Daryl</nombre>
+		<apellidos>Williams</apellidos>
+		<equipo>Caroline Panthers</equipo>
+		<posicion  dorsal="#60">OT</posicion>
+		<salario>155.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Teddy</nombre>
+		<apellidos>Williams</apellidos>
+		<equipo>Caroline Panthers</equipo>
+		<posicion  dorsal="#21">DB</posicion>
+		<salario>325.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Kelvin</nombre>
+		<apellidos>Benjamin</apellidos>
+		<equipo>Caroline Panthers</equipo>
+		<posicion  dorsal="#13">WR</posicion>
+		<salario>225.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Terry</nombre>
+		<apellidos>Williams</apellidos>
+		<equipo>Chicago Bears </equipo>
+		<posicion  dorsal="#79">DT</posicion>
+		<salario>525.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Lamarr</nombre>
+		<apellidos>Houston</apellidos>
+		<equipo>Chicago Bears </equipo>
+		<posicion  dorsal="#99">OLB</posicion>
+		<salario>625.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Charles</nombre>
+		<apellidos>Leno</apellidos>
+		<equipo>Chicago Bears </equipo>
+		<posicion  dorsal="#72">T</posicion>
+		<salario>725.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Sherrick</nombre>
+		<apellidos>McManis</apellidos>
+		<equipo>Chicago Bears </equipo>
+		<posicion  dorsal="#27">CB</posicion>
+		<salario>825.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Pernell</nombre>
+		<apellidos>McPhee</apellidos>
+		<equipo>Chicago Bears </equipo>
+		<posicion  dorsal="#92">OLB</posicion>
+		<salario>425.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Shawn</nombre>
+		<apellidos>Williams</apellidos>
+		<equipo>Cincinnati Bengals </equipo>
+		<posicion  dorsal="#69">DT</posicion>
+		<salario>325.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>DeShawn</nombre>
+		<apellidos>Williams</apellidos>
+		<equipo>Cincinnati Bengals </equipo>
+		<posicion  dorsal="#36">SS</posicion>
+		<salario>125.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>A.J</nombre>
+		<apellidos>Green</apellidos>
+		<equipo>Cincinnati Bengals </equipo>
+		<posicion  dorsal="#18">WR</posicion>
+		<salario>1.325.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>A.J</nombre>
+		<apellidos>Hawk</apellidos>
+		<equipo>Cincinnati Bengals </equipo>
+		<posicion  dorsal="#50">OLB</posicion>
+		<salario>1.125.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Domata</nombre>
+		<apellidos>Peko</apellidos>
+		<equipo>Cincinnati Bengals </equipo>
+		<posicion  dorsal="#94">DT</posicion>
+		<salario>25.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Joel</nombre>
+		<apellidos>Bitonio</apellidos>
+		<equipo>Cleveland Browns </equipo>
+		<posicion  dorsal="#75">G</posicion>
+		<salario>225.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Austin</nombre>
+		<apellidos>Davis</apellidos>
+		<equipo>Cleveland Browns </equipo>
+		<posicion  dorsal="#7">QB</posicion>
+		<salario>325.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Charley</nombre>
+		<apellidos>Hughlett</apellidos>
+		<equipo>Cleveland Browns </equipo>
+		<posicion  dorsal="#47">LS</posicion>
+		<salario>255.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Randall</nombre>
+		<apellidos>Telfer</apellidos>
+		<equipo>Cleveland Browns </equipo>
+		<posicion  dorsal="#86">TE</posicion>
+		<salario>125.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Travis</nombre>
+		<apellidos>Coons</apellidos>
+		<equipo>Cleveland Browns </equipo>
+		<posicion  dorsal="#6">K</posicion>
+		<salario>1.225.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Travis</nombre>
+		<apellidos>Frederick</apellidos>
+		<equipo>Dallas Cowboys </equipo>
+		<posicion  dorsal="#72">C</posicion>
+		<salario>2.225.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Zack</nombre>
+		<apellidos>Martin</apellidos>
+		<equipo>Dallas Cowboys </equipo>
+		<posicion  dorsal="#70">G</posicion>
+		<salario>375.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Ka´Lial</nombre>
+		<apellidos>Glaud</apellidos>
+		<equipo>Dallas Cowboys </equipo>
+		<posicion  dorsal="#47">LB</posicion>
+		<salario>2.550.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Rod</nombre>
+		<apellidos>Smith</apellidos>
+		<equipo>Dallas Cowboys </equipo>
+		<posicion  dorsal="#45">RB</posicion>
+		<salario>1.725.100 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Geoff</nombre>
+		<apellidos>Swaim</apellidos>
+		<equipo>Dallas Cowboys </equipo>
+		<posicion  dorsal="#87">TE</posicion>
+		<salario>5.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Zaire</nombre>
+		<apellidos>Anderson</apellidos>
+		<equipo>Denver Broncos </equipo>
+		<posicion  dorsal="#47">LB</posicion>
+		<salario>15.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Todd</nombre>
+		<apellidos>Davis</apellidos>
+		<equipo>Denver Broncos </equipo>
+		<posicion  dorsal="#51">MLB</posicion>
+		<salario>215.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Ty</nombre>
+		<apellidos>Sambrailo</apellidos>
+		<equipo>Denver Broncos </equipo>
+		<posicion  dorsal="#74">OT</posicion>
+		<salario>315.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Matt</nombre>
+		<apellidos>Paradis</apellidos>
+		<equipo>Denver Broncos </equipo>
+		<posicion  dorsal="#61">C</posicion>
+		<salario>415.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Brandon</nombre>
+		<apellidos>McManus</apellidos>
+		<equipo>Denver Broncos </equipo>
+		<posicion  dorsal="#8">K</posicion>
+		<salario>515.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Don</nombre>
+		<apellidos>Mulhlbach</apellidos>
+		<equipo>Detroit Lions </equipo>
+		<posicion  dorsal="#48">LS</posicion>
+		<salario>275.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Sam</nombre>
+		<apellidos>Martin</apellidos>
+		<equipo>Detroit Lions </equipo>
+		<posicion  dorsal="#6">P</posicion>
+		<salario>475.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Stephen</nombre>
+		<apellidos>Tulloch</apellidos>
+		<equipo>Detroit Lions </equipo>
+		<posicion  dorsal="#55">MLB</posicion>
+		<salario>125.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Zach</nombre>
+		<apellidos>Zenner</apellidos>
+		<equipo>Detroit Lions </equipo>
+		<posicion  dorsal="#34">FB</posicion>
+		<salario>333.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Riley</nombre>
+		<apellidos>Reiff</apellidos>
+		<equipo>Detroit Lions </equipo>
+		<posicion  dorsal="#71">T</posicion>
+		<salario>475.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Mike</nombre>
+		<apellidos>Daniels</apellidos>
+		<equipo>Green Bay Packers</equipo>
+		<posicion  dorsal="#76">DE</posicion>
+		<salario>1.700.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Brett</nombre>
+		<apellidos>Hundley</apellidos>
+		<equipo>Green Bay Packers</equipo>
+		<posicion  dorsal="#7">QB</posicion>
+		<salario>475.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Corey</nombre>
+		<apellidos>Linsley</apellidos>
+		<equipo>Green Bay Packers</equipo>
+		<posicion  dorsal="#63">C</posicion>
+		<salario>1.475.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>T.J</nombre>
+		<apellidos>Lang</apellidos>
+		<equipo>Green Bay Packers</equipo>
+		<posicion  dorsal="#70">G</posicion>
+		<salario>1.175.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Robertson</nombre>
+		<apellidos>Daniel</apellidos>
+		<equipo>Green Bay Packers</equipo>
+		<posicion  dorsal="#31">DB</posicion>
+		<salario>1.975.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Brian</nombre>
+		<apellidos>Peters</apellidos>
+		<equipo>Houston Texans</equipo>
+		<posicion  dorsal="#52">LB</posicion>
+		<salario>145.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Ryan</nombre>
+		<apellidos>Griffin</apellidos>
+		<equipo>Houston Texans</equipo>
+		<posicion  dorsal="#84">TE</posicion>
+		<salario>45.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Jon</nombre>
+		<apellidos>Weeks</apellidos>
+		<equipo>Houston Texans</equipo>
+		<posicion  dorsal="#46">LS</posicion>
+		<salario>345.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Nick</nombre>
+		<apellidos>Novak</apellidos>
+		<equipo>Houston Texans</equipo>
+		<posicion  dorsal="#8">K</posicion>
+		<salario>845.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Shane</nombre>
+		<apellidos>Lechler</apellidos>
+		<equipo>Houston Texans</equipo>
+		<posicion  dorsal="#9">P</posicion>
+		<salario>95.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Mike</nombre>
+		<apellidos>Adams</apellidos>
+		<equipo>Indianapolis Colts</equipo>
+		<posicion  dorsal="#29">SS</posicion>
+		<salario>1.000.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Winston</nombre>
+		<apellidos>Guy</apellidos>
+		<equipo>Indianapolis Colts</equipo>
+		<posicion  dorsal="#27">FS</posicion>
+		<salario>1.200.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Denzelle</nombre>
+		<apellidos>Good</apellidos>
+		<equipo>Indianapolis Colts</equipo>
+		<posicion  dorsal="#71">OT</posicion>
+		<salario>1.100.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Tyler</nombre>
+		<apellidos>Varga</apellidos>
+		<equipo>Indianapolis Colts</equipo>
+		<posicion  dorsal="#38">FB</posicion>
+		<salario>1.340.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Amarlo</nombre>
+		<apellidos>Herrera</apellidos>
+		<equipo>Indianapolis Colts</equipo>
+		<posicion  dorsal="#49">MLB</posicion>
+		<salario>1.500.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Joe</nombre>
+		<apellidos>Banyard</apellidos>
+		<equipo>Jacksonville Jaguars</equipo>
+		<posicion  dorsal="#29">RB</posicion>
+		<salario>1.115.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Luke</nombre>
+		<apellidos>Bowanko</apellidos>
+		<equipo>Jacksonville Jaguars</equipo>
+		<posicion  dorsal="#70">C</posicion>
+		<salario>1.125.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Brandon</nombre>
+		<apellidos>Linder</apellidos>
+		<equipo>Jacksonville Jaguars</equipo>
+		<posicion  dorsal="#65">G</posicion>
+		<salario>1.155.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Chris</nombre>
+		<apellidos>Smith</apellidos>
+		<equipo>Jacksonville Jaguars</equipo>
+		<posicion  dorsal="#98">DE</posicion>
+		<salario>1.195.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Chad</nombre>
+		<apellidos>Henne</apellidos>
+		<equipo>Jacksonville Jaguars</equipo>
+		<posicion  dorsal="#7">QB</posicion>
+		<salario>1.500.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>D.J</nombre>
+		<apellidos>Alexander</apellidos>
+		<equipo>Kansas City Chiefs</equipo>
+		<posicion  dorsal="#57">LB</posicion>
+		<salario>765.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Travis</nombre>
+		<apellidos>Kelce</apellidos>
+		<equipo>Kansas City Chiefs</equipo>
+		<posicion  dorsal="#87">TE</posicion>
+		<salario>1.115.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>James</nombre>
+		<apellidos>Winchester</apellidos>
+		<equipo>Kansas City Chiefs</equipo>
+		<posicion  dorsal="#41">LS</posicion>
+		<salario>465.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Cairo</nombre>
+		<apellidos>Santos</apellidos>
+		<equipo>Kansas City Chiefs</equipo>
+		<posicion  dorsal="#5">K</posicion>
+		<salario>675.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Dustin</nombre>
+		<apellidos>Colquitt</apellidos>
+		<equipo>Kansas City Chiefs</equipo>
+		<posicion  dorsal="#2">P</posicion>
+		<salario>2.115.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Maurice</nombre>
+		<apellidos>Alexander</apellidos>
+		<equipo>Los Angeles Rams</equipo>
+		<posicion  dorsal="#31">SS</posicion>
+		<salario>4.000.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Rob</nombre>
+		<apellidos>Havenstein</apellidos>
+		<equipo>Los Angeles Rams</equipo>
+		<posicion  dorsal="#79">OT</posicion>
+		<salario>1.100.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Zach</nombre>
+		<apellidos>Laskey</apellidos>
+		<equipo>Los Angeles Rams</equipo>
+		<posicion  dorsal="#45">FB</posicion>
+		<salario>1.750.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Aaron</nombre>
+		<apellidos>Donald</apellidos>
+		<equipo>Los Angeles Rams</equipo>
+		<posicion  dorsal="#99">DT</posicion>
+		<salario>2.100.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Greg</nombre>
+		<apellidos>Robinson</apellidos>
+		<equipo>Los Angeles Rams</equipo>
+		<posicion  dorsal="#73">T</posicion>
+		<salario>2.600.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Greg</nombre>
+		<apellidos>Robinson</apellidos>
+		<equipo>Los Angeles Rams</equipo>
+		<posicion  dorsal="#73">T</posicion>
+		<salario>2.600.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Jay</nombre>
+		<apellidos>Ajayi</apellidos>
+		<equipo>Miami Dolphins</equipo>
+		<posicion  dorsal="#23">RB</posicion>
+		<salario>1.600.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Jay</nombre>
+		<apellidos>Ajayi</apellidos>
+		<equipo>Miami Dolphins</equipo>
+		<posicion  dorsal="#23">RB</posicion>
+		<salario>1.600.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Jay</nombre>
+		<apellidos>Ajayi</apellidos>
+		<equipo>Miami Dolphins</equipo>
+		<posicion  dorsal="#23">RB</posicion>
+		<salario>1.600.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Jay</nombre>
+		<apellidos>Ajayi</apellidos>
+		<equipo>Miami Dolphins</equipo>
+		<posicion  dorsal="#23">RB</posicion>
+		<salario>1.600.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Jay</nombre>
+		<apellidos>Ajayi</apellidos>
+		<equipo>Miami Dolphins</equipo>
+		<posicion  dorsal="#23">RB</posicion>
+		<salario>1.600.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Nick</nombre>
+		<apellidos>Easton</apellidos>
+		<equipo>Minnesota Vikings</equipo>
+		<posicion  dorsal="#62">C</posicion>
+		<salario>1.500.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Nick</nombre>
+		<apellidos>Easton</apellidos>
+		<equipo>Minnesota Vikings</equipo>
+		<posicion  dorsal="#62">C</posicion>
+		<salario>1.500.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Nick</nombre>
+		<apellidos>Easton</apellidos>
+		<equipo>Minnesota Vikings</equipo>
+		<posicion  dorsal="#62">C</posicion>
+		<salario>1.500.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Nick</nombre>
+		<apellidos>Easton</apellidos>
+		<equipo>Minnesota Vikings</equipo>
+		<posicion  dorsal="#62">C</posicion>
+		<salario>1.500.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Nick</nombre>
+		<apellidos>Easton</apellidos>
+		<equipo>Minnesota Vikings</equipo>
+		<posicion  dorsal="#62">C</posicion>
+		<salario>1.500.000 $</salario>
+	</Jugador>
+	
+	
+	<Jugador>
+		<nombre>Josh</nombre>
+		<apellidos>Kline</apellidos>
+		<equipo>New England Patriots</equipo>
+		<posicion  dorsal="#67">G</posicion>
+		<salario>1.700.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Josh</nombre>
+		<apellidos>Kline</apellidos>
+		<equipo>New England Patriots</equipo>
+		<posicion  dorsal="#67">G</posicion>
+		<salario>1.700.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Josh</nombre>
+		<apellidos>Kline</apellidos>
+		<equipo>New England Patriots</equipo>
+		<posicion  dorsal="#67">G</posicion>
+		<salario>1.700.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Josh</nombre>
+		<apellidos>Kline</apellidos>
+		<equipo>New England Patriots</equipo>
+		<posicion  dorsal="#67">G</posicion>
+		<salario>1.700.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Josh</nombre>
+		<apellidos>Kline</apellidos>
+		<equipo>New England Patriots</equipo>
+		<posicion  dorsal="#67">G</posicion>
+		<salario>1.700.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Brian</nombre>
+		<apellidos>Dixon</apellidos>
+		<equipo>New Orleans Saints </equipo>
+		<posicion  dorsal="#20">DB</posicion>
+		<salario>1.800.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Brian</nombre>
+		<apellidos>Dixon</apellidos>
+		<equipo>New Orleans Saints </equipo>
+		<posicion  dorsal="#20">DB</posicion>
+		<salario>1.800.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Brian</nombre>
+		<apellidos>Dixon</apellidos>
+		<equipo>New Orleans Saints </equipo>
+		<posicion  dorsal="#20">DB</posicion>
+		<salario>1.800.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Brian</nombre>
+		<apellidos>Dixon</apellidos>
+		<equipo>New Orleans Saints </equipo>
+		<posicion  dorsal="#20">DB</posicion>
+		<salario>1.800.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Brian</nombre>
+		<apellidos>Dixon</apellidos>
+		<equipo>New Orleans Saints </equipo>
+		<posicion  dorsal="#20">DB</posicion>
+		<salario>1.800.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Brad</nombre>
+		<apellidos>Brad</apellidos>
+		<equipo>New York Giants </equipo>
+		<posicion  dorsal="#66">DE</posicion>
+		<salario>1.900.000 $</salario>
+	</Jugador>
+
+	<Jugador>
+		<nombre>Brad</nombre>
+		<apellidos>Brad</apellidos>
+		<equipo>New York Giants </equipo>
+		<posicion  dorsal="#66">DE</posicion>
+		<salario>1.900.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Brad</nombre>
+		<apellidos>Brad</apellidos>
+		<equipo>New York Giants </equipo>
+		<posicion  dorsal="#66">DE</posicion>
+		<salario>1.900.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Brad</nombre>
+		<apellidos>Brad</apellidos>
+		<equipo>New York Giants </equipo>
+		<posicion  dorsal="#66">DE</posicion>
+		<salario>1.900.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Brad</nombre>
+		<apellidos>Brad</apellidos>
+		<equipo>New York Giants </equipo>
+		<posicion  dorsal="#66">DE</posicion>
+		<salario>1.900.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Geno</nombre>
+		<apellidos>Smith</apellidos>
+		<equipo>New York Jets </equipo>
+		<posicion  dorsal="#7">QB</posicion>
+		<salario>900.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Geno</nombre>
+		<apellidos>Smith</apellidos>
+		<equipo>New York Jets </equipo>
+		<posicion  dorsal="#7">QB</posicion>
+		<salario>900.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Geno</nombre>
+		<apellidos>Smith</apellidos>
+		<equipo>New York Jets </equipo>
+		<posicion  dorsal="#7">QB</posicion>
+		<salario>900.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Geno</nombre>
+		<apellidos>Smith</apellidos>
+		<equipo>New York Jets </equipo>
+		<posicion  dorsal="#7">QB</posicion>
+		<salario>900.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Geno</nombre>
+		<apellidos>Smith</apellidos>
+		<equipo>New York Jets </equipo>
+		<posicion  dorsal="#7">QB</posicion>
+		<salario>900.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Geno</nombre>
+		<apellidos>Smith</apellidos>
+		<equipo>New York Jets </equipo>
+		<posicion  dorsal="#7">QB</posicion>
+		<salario>900.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Lorenzo</nombre>
+		<apellidos>Alexander</apellidos>
+		<equipo>Oakland Raiders </equipo>
+		<posicion  dorsal="#56">LB</posicion>
+		<salario>800.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Lorenzo</nombre>
+		<apellidos>Alexander</apellidos>
+		<equipo>Oakland Raiders </equipo>
+		<posicion  dorsal="#56">LB</posicion>
+		<salario>800.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Lorenzo</nombre>
+		<apellidos>Alexander</apellidos>
+		<equipo>Oakland Raiders </equipo>
+		<posicion  dorsal="#56">LB</posicion>
+		<salario>800.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Lorenzo</nombre>
+		<apellidos>Alexander</apellidos>
+		<equipo>Oakland Raiders </equipo>
+		<posicion  dorsal="#56">LB</posicion>
+		<salario>800.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Lorenzo</nombre>
+		<apellidos>Alexander</apellidos>
+		<equipo>Oakland Raiders </equipo>
+		<posicion  dorsal="#56">LB</posicion>
+		<salario>800.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Zach</nombre>
+		<apellidos>Ertz</apellidos>
+		<equipo>Philaphenia Eagles </equipo>
+		<posicion  dorsal="#86">TE</posicion>
+		<salario>700.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Zach</nombre>
+		<apellidos>Ertz</apellidos>
+		<equipo>Philaphenia Eagles </equipo>
+		<posicion  dorsal="#86">TE</posicion>
+		<salario>700.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Zach</nombre>
+		<apellidos>Ertz</apellidos>
+		<equipo>Philaphenia Eagles </equipo>
+		<posicion  dorsal="#86">TE</posicion>
+		<salario>700.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Zach</nombre>
+		<apellidos>Ertz</apellidos>
+		<equipo>Philaphenia Eagles </equipo>
+		<posicion  dorsal="#86">TE</posicion>
+		<salario>700.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Zach</nombre>
+		<apellidos>Ertz</apellidos>
+		<equipo>Philaphenia Eagles </equipo>
+		<posicion  dorsal="#86">TE</posicion>
+		<salario>700.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Zach</nombre>
+		<apellidos>Ertz</apellidos>
+		<equipo>Philaphenia Eagles </equipo>
+		<posicion  dorsal="#86">TE</posicion>
+		<salario>700.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Chris</nombre>
+		<apellidos>Boswell</apellidos>
+		<equipo>Pittsburgh Steelers </equipo>
+		<posicion  dorsal="#9">K</posicion>
+		<salario>600.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Chris</nombre>
+		<apellidos>Boswell</apellidos>
+		<equipo>Pittsburgh Steelers </equipo>
+		<posicion  dorsal="#9">K</posicion>
+		<salario>600.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Chris</nombre>
+		<apellidos>Boswell</apellidos>
+		<equipo>Pittsburgh Steelers </equipo>
+		<posicion  dorsal="#9">K</posicion>
+		<salario>600.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Chris</nombre>
+		<apellidos>Boswell</apellidos>
+		<equipo>Pittsburgh Steelers </equipo>
+		<posicion  dorsal="#9">K</posicion>
+		<salario>600.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Chris</nombre>
+		<apellidos>Boswell</apellidos>
+		<equipo>Pittsburgh Steelers </equipo>
+		<posicion  dorsal="#9">K</posicion>
+		<salario>600.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Mike</nombre>
+		<apellidos>Windt</apellidos>
+		<equipo>San Diego  Chargers </equipo>
+		<posicion  dorsal="#47">LS</posicion>
+		<salario>500.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Mike</nombre>
+		<apellidos>Windt</apellidos>
+		<equipo>San Diego  Chargers </equipo>
+		<posicion  dorsal="#47">LS</posicion>
+		<salario>500.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Mike</nombre>
+		<apellidos>Windt</apellidos>
+		<equipo>San Diego  Chargers </equipo>
+		<posicion  dorsal="#47">LS</posicion>
+		<salario>500.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Mike</nombre>
+		<apellidos>Windt</apellidos>
+		<equipo>San Diego  Chargers </equipo>
+		<posicion  dorsal="#47">LS</posicion>
+		<salario>500.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Mike</nombre>
+		<apellidos>Windt</apellidos>
+		<equipo>San Diego  Chargers </equipo>
+		<posicion  dorsal="#47">LS</posicion>
+		<salario>500.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Trent</nombre>
+		<apellidos>Brown</apellidos>
+		<equipo>San Francisco 49ers </equipo>
+		<posicion  dorsal="#77">OT</posicion>
+		<salario>400.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Trent</nombre>
+		<apellidos>Brown</apellidos>
+		<equipo>San Francisco 49ers </equipo>
+		<posicion  dorsal="#77">OT</posicion>
+		<salario>400.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Trent</nombre>
+		<apellidos>Brown</apellidos>
+		<equipo>San Francisco 49ers </equipo>
+		<posicion  dorsal="#77">OT</posicion>
+		<salario>400.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Trent</nombre>
+		<apellidos>Brown</apellidos>
+		<equipo>San Francisco 49ers </equipo>
+		<posicion  dorsal="#77">OT</posicion>
+		<salario>400.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Trent</nombre>
+		<apellidos>Brown</apellidos>
+		<equipo>San Francisco 49ers </equipo>
+		<posicion  dorsal="#77">OT</posicion>
+		<salario>400.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Steven</nombre>
+		<apellidos>Terrell</apellidos>
+		<equipo>Seattle Seahawks </equipo>
+		<posicion  dorsal="#23">FS</posicion>
+		<salario>300.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Steven</nombre>
+		<apellidos>Terrell</apellidos>
+		<equipo>Seattle Seahawks </equipo>
+		<posicion  dorsal="#23">FS</posicion>
+		<salario>300.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Steven</nombre>
+		<apellidos>Terrell</apellidos>
+		<equipo>Seattle Seahawks </equipo>
+		<posicion  dorsal="#23">FS</posicion>
+		<salario>300.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Steven</nombre>
+		<apellidos>Terrell</apellidos>
+		<equipo>Seattle Seahawks </equipo>
+		<posicion  dorsal="#23">FS</posicion>
+		<salario>300.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Steven</nombre>
+		<apellidos>Terrell</apellidos>
+		<equipo>Seattle Seahawks </equipo>
+		<posicion  dorsal="#23">FS</posicion>
+		<salario>300.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Kwon</nombre>
+		<apellidos>Alexander</apellidos>
+		<equipo>Tampa Bay Buccaneers </equipo>
+		<posicion  dorsal="#58">MLB</posicion>
+		<salario>200.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Kwon</nombre>
+		<apellidos>Alexander</apellidos>
+		<equipo>Tampa Bay Buccaneers </equipo>
+		<posicion  dorsal="#58">MLB</posicion>
+		<salario>200.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Kwon</nombre>
+		<apellidos>Alexander</apellidos>
+		<equipo>Tampa Bay Buccaneers </equipo>
+		<posicion  dorsal="#58">MLB</posicion>
+		<salario>200.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Kwon</nombre>
+		<apellidos>Alexander</apellidos>
+		<equipo>Tampa Bay Buccaneers </equipo>
+		<posicion  dorsal="#58">MLB</posicion>
+		<salario>200.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Kwon</nombre>
+		<apellidos>Alexander</apellidos>
+		<equipo>Tampa Bay Buccaneers </equipo>
+		<posicion  dorsal="#58">MLB</posicion>
+		<salario>200.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Damaris</nombre>
+		<apellidos>Johnson</apellidos>
+		<equipo>Tennessee Titans</equipo>
+		<posicion  dorsal="#14">MLB</posicion>
+		<salario>100.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Damaris</nombre>
+		<apellidos>Johnson</apellidos>
+		<equipo>Tennessee Titans</equipo>
+		<posicion  dorsal="#14">MLB</posicion>
+		<salario>100.000 $</salario>
+	</Jugador>
+	
+	
+	<Jugador>
+		<nombre>Damaris</nombre>
+		<apellidos>Johnson</apellidos>
+		<equipo>Tennessee Titans</equipo>
+		<posicion  dorsal="#14">MLB</posicion>
+		<salario>100.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Damaris</nombre>
+		<apellidos>Johnson</apellidos>
+		<equipo>Tennessee Titans</equipo>
+		<posicion  dorsal="#14">MLB</posicion>
+		<salario>100.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Damaris</nombre>
+		<apellidos>Johnson</apellidos>
+		<equipo>Tennessee Titans</equipo>
+		<posicion  dorsal="#14">MLB</posicion>
+		<salario>100.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Tress</nombre>
+		<apellidos>Way</apellidos>
+		<equipo>Washigton Redskins</equipo>
+		<posicion  dorsal="#5">P</posicion>
+		<salario>50.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Tress</nombre>
+		<apellidos>Way</apellidos>
+		<equipo>Washigton Redskins</equipo>
+		<posicion  dorsal="#5">P</posicion>
+		<salario>50.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Tress</nombre>
+		<apellidos>Way</apellidos>
+		<equipo>Washigton Redskins</equipo>
+		<posicion  dorsal="#5">P</posicion>
+		<salario>50.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Tress</nombre>
+		<apellidos>Way</apellidos>
+		<equipo>Washigton Redskins</equipo>
+		<posicion  dorsal="#5">P</posicion>
+		<salario>50.000 $</salario>
+	</Jugador>
+	
+	<Jugador>
+		<nombre>Tress</nombre>
+		<apellidos>Way</apellidos>
+		<equipo>Washigton Redskins</equipo>
+		<posicion  dorsal="#5">P</posicion>
+		<salario>50.000 $</salario>
+	</Jugador>
+	
+	
+</Jugadores>
