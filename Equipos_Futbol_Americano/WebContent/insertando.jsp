@@ -24,25 +24,8 @@ String salario = request.getParameter("salario");
 Motor motor = new Motor();
 motor.insertar(nombre,apellidos,equipo,posicion,dorsal,salario);
 
-
-Vector<Jugador> jugadores = motor.getJugadores();
 %>
 
-<ul>
-<%
-for (int i=0; i< jugadores.size(); i++)
-{
-	Jugador jugador = jugadores.elementAt(i);
-	
-	%>
-	<li><%=jugador.getNombre() %> - <%=jugador.getApellidos() %> - <%=jugador.getEquipo() %> - <%=jugador.getPosicion() %> - <%=jugador.getDorsal() %> - <%=jugador.getSalario() %></li>
-	<%
-	
-}
-%>
-
-
-</ul>
 <p><a href="inicio.jsp">Volver</a>
 </body>
 </html>
